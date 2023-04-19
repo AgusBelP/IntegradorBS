@@ -1,0 +1,20 @@
+.bg-grey {
+  background-color: rgb(72, 69, 69);
+}
+
+.alpha-color {
+  background-color: rgba(41, 39, 39, 0.6);
+}
+
+.bg-img {
+  background-image: url("./img/ba1.jpg");
+  background-size: cover;
+}
+
+.react {
+  background-color: rgb(6, 156, 136);
+}
+
+.bg-footer {
+  background-color: rgb(9, 70, 86);
+}
