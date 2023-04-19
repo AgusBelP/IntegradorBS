@@ -3,7 +3,7 @@
 }
 
 .alpha-color {
-  background-color: rgba(41, 39, 39, 0.6);
+  background-color: rgba(38, 37, 37, 0.6);
 }
 
 .bg-img {
@@ -17,4 +17,23 @@
 
 .bg-footer {
   background-color: rgb(9, 70, 86);
+  min-height: 15vh;
+}
+
+#honolulu {
+  background-image: url("./img/honolulu.jpg");
+  background-size: cover;
+  background-position: left;
+  min-height: 500px;
+}
+
+#confbsas {
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding-top: 60vh;
+}
+
+.send {
+  background-color: rgb(99, 195, 47);
 }
