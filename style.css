@@ -16,7 +16,9 @@
 }
 
 .bg-footer {
-  background-color: rgb(9, 70, 86);
+  /* background-color: rgb(9, 70, 86); */
+  background: rgb(14, 76, 93);
+  background: linear-gradient(90deg, rgba(14, 76, 93, 1) 42%, rgba(8, 100, 123, 1) 100%);
   min-height: 15vh;
 }
 
